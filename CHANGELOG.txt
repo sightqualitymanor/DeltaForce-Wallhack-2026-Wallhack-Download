@@ -1,0 +1,4 @@
+Version 5.2.6
+- Updated the English installation instructions.
+- Improved the configuration layout.
+- General package maintenance.
